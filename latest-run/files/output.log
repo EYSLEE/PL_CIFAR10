@@ -1,0 +1,48 @@
+
+Files already downloaded and verified
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+Epoch 0:  14%|▌   | 109/782 [00:01<00:08, 84.10it/s, loss=-1.77e+07, v_num=5jlo]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+  | Name     | Type       | Params
+----------------------------------------
+0 | layer    | Sequential | 65.3 K
+1 | fc_layer | Sequential | 103 K
+2 | accuracy | Accuracy   | 0
+----------------------------------------
+168 K     Trainable params
+0         Non-trainable params
+168 K     Total params
+0.675     Total estimated model params size (MB)
+/home/rmclab1003/anaconda3/lib/python3.8/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /opt/conda/conda-bld/pytorch_1623448278899/work/c10/core/TensorImpl.h:1156.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 9:  98%|██▉| 770/782 [00:05<00:00, 148.25it/s, loss=-1.47e+17, v_num=5jlo]
+
+Epoch 9: 100%|███| 782/782 [00:05<00:00, 148.39it/s, loss=-1.48e+17, v_num=5jlo]

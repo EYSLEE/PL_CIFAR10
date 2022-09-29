@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.15.0-46-generic-x86_64-with-glibc2.10",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-09-29T14:50:58.424962",
+    "startedAt": "2022-09-29T14:50:36.984369",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "cifar10.py",
+    "codePath": "cifar10.py",
+    "host": "rmclab1003-System-Product-Name",
+    "username": "rmclab1003",
+    "executable": "/home/rmclab1003/anaconda3/bin/python"
+}
